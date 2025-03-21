@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Namal",
+        "author": "Nimra ahmed",
+        "year": "2009",
+        "genre": "thriller, drama",
+        "read": "yes"
+    },
+    {
+        "title": "Aab-e-Hayat",
+        "author": "Umera ahmed",
+        "year": "2004",
+        "genre": "drama",
+        "read": "yes"
+    },
+    {
+        "title": "Jannat ke Pattay",
+        "author": "Nimra ahmed",
+        "year": "2006",
+        "genre": "Drama, Thriller",
+        "read": "yes"
+    }
+]
